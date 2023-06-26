@@ -1,2 +1,1 @@
-[Clique aqui para visitar o site](https://login-em-react-js-navy.vercel.app/){:target="_blank"}
-
+[Clique aqui para visitar o site](https://login-em-react-js-navy.vercel.app/)
